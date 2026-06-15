@@ -4,7 +4,7 @@ FraudShield AI - Real-Time Fraud Sms & Email Detection System is a machine learn
 
 ## Why I Built This Project
 
-Online fraud is becoming increasingly sophisticated. my Self & Many users struggle to distinguish between legitimate and fraudulent messages, especially when attackers imitate banks, government agencies, job portals, or popular brands.
+Online fraud is becoming increasingly sophisticated. me & Many users struggle to distinguish between legitimate and fraudulent messages, especially when attackers imitate banks, government agencies, job portals, or popular brands.
 
 I built FraudShield AI to explore how machine learning and NLP can be used to automatically analyze text-based communications and provide risk assessments that help users make safer decisions.
 
